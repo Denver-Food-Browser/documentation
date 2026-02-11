@@ -1,7 +1,7 @@
 # Updates
 A free-to-access regional directory and verification tracker created by and for people who want to find free food and meals in the Denver Metro area.
 
-Features in-place
+Features in place
 ====
 - web interface for browsing service listings
 - web interface for browsing community verification needs
@@ -9,19 +9,6 @@ Features in-place
 - verification form with tagging options based on Food Options, Access, Atmosphere, Eligibility Requirements, Other Services, police presence, and more
 - see all services at a venue, or all services by a provider, or all providers at a venue…
 - forms to add new services, venues, and organizers
-
-Future goals
-====
-This is an incomplete wishlist of high-to-mid priority future updates. The current focus is on collecting, checking, cleaning up, and loading data to populate the database.
-
-- migrate out of notion -> ?
-- calendar
-- improve mapping (3rd party)
-- upcoming services
-- community editing
-- small screen optimization
-- optimization for spanish-speaking users (vietnamese, mandarin?)
-- directory feedback
 
 ---
 
