@@ -20,7 +20,7 @@ Features in place
 1/24/26 | Housekeeping
 ====    
 - Added synced navigation to all pages for consistency and thoroughness.
-- Major updates to the [Technical Design Document](https://www.notion.so/Technical-Design-Document-2a7bf4cc7f3a80e3854ae83f119028e2?pvs=21) in preparation for Monday’s info meeting.
+- Major updates to the [Technical Design Document](https://github.com/Denver-Food-Browser/documentation/blob/main/technicalDesignDocument.md) in preparation for Monday’s info meeting.
     
 1/19/26 | Info meeting for tech migration
 ====    
